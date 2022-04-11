@@ -30,7 +30,7 @@ Users should be able to
 - See hover states for interactive elements
 
 ### Screenshot
-<img  style="float:left" width="70%" src="./assets/images/screenshot-desktop.png"/>
+<img  style="float:left" width="50%" src="./assets/images/screenshot-desktop.png"/>
 <img style="float:right" src="./assets/images/screenshot-mobile-375x812.png"/>
 
 
