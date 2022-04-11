@@ -33,14 +33,11 @@ Users should be able to
 
 **Desktop**
 ![Desktop](./assets/images/screenshot-desktop.png)
-**Mobile**
+
 ![Mobile](./assets/images/screenshot-mobile-375x812.png)
+**Mobile**
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
@@ -83,7 +80,6 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
@@ -95,7 +91,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Video de como usar o SASS](https://www.youtube.com/watch?v=C8KlabGtE8Y) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Video de como usar o SASS BR](https://www.youtube.com/watch?v=C8KlabGtE8Y) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [CSS Methodology BEM](https://www.youtube.com/watch?v=27JtRAI3QO8) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 - [CSS BEM Article methodology](https://css-tricks.com/bem-101/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
@@ -103,9 +99,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Henrique Santos Santana](https://www.linkedin.com/in/henrique-santos-santana/)
+- Frontend Mentor - [@HenriqueSSan](https://www.frontendmentor.io/profile/HenriqueSSan)
+- Vercel - [HenriqueSSan](https://vercel.com/henriquessan)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
