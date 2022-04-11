@@ -39,11 +39,11 @@ Users should be able to
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+.**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://nft-card-component-npz4l9cut-henriquessan.vercel.app/)
+- **STATUS/ON** Live Site URL: [See in real time on vercel](https://nft-card-component-npz4l9cut-henriquessan.vercel.app/)
 
 ## My process
 
@@ -56,7 +56,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 - Flexbox.
 - Mobile-first workflow.
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+.**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -80,14 +80,13 @@ const proudOfThisFunc = () => {
 }
 ```
 
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+.**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+.**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
@@ -95,7 +94,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [CSS Methodology BEM](https://www.youtube.com/watch?v=27JtRAI3QO8) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 - [CSS BEM Article methodology](https://css-tricks.com/bem-101/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+.**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -103,10 +102,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [@HenriqueSSan](https://www.frontendmentor.io/profile/HenriqueSSan)
 - Vercel - [HenriqueSSan](https://vercel.com/henriquessan)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+.**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-*Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.*
+.**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
