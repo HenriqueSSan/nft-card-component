@@ -33,8 +33,7 @@ Users should be able to
 <img  style="float:left" width="70%" src="./assets/images/screenshot-desktop.png"/>
 <img style="float:right" src="./assets/images/screenshot-mobile-375x812.png"/>
 
-![Desktop](./assets/images/screenshot-desktop.png)
-![Mobile](./assets/images/screenshot-mobile-375x812.png)
+
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
