@@ -68,14 +68,57 @@ body .main .NFT .NFT__container {
 }
 
 .card .card__container .card__content-img {
+  position: relative;
   max-width: 100%;
   margin-bottom: 1.25rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
 }
 
 .card .card__container .card__content-img .card__nft-img {
+  display: block;
   max-width: 100%;
   height: auto;
   border-radius: 15px;
+}
+
+.card .card__container .card__content-img .card__nft-img:hover {
+  opacity: 0.5;
+}
+
+.card .card__container .card__content-img .card__view {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  -webkit-transition: .5s;
+  transition: .5s;
+  background-color: rgba(0, 255, 255, 0.2);
+  border-radius: 15px;
+}
+
+.card .card__container .card__content-img .card__view .card__view-img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.card .card__container .card__content-img:hover .card__view {
+  opacity: 1;
 }
 
 /*==========\Card Datas/==========*/
@@ -90,6 +133,13 @@ body .main .NFT .NFT__container {
 .card__data .card__titles .card__title {
   color: white;
   margin-bottom: 1.25rem;
+  -webkit-transition: .5s;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.card__data .card__titles .card__title:hover {
+  color: #00fff7;
 }
 
 .card__data .card__titles .card__description {
@@ -98,7 +148,7 @@ body .main .NFT .NFT__container {
   margin-bottom: 1.25rem;
 }
 
-/*==========\Card Information/==========*/
+/*=====\Card Information/=====*/
 .card__information {
   position: relative;
   max-width: 100%;
@@ -143,7 +193,7 @@ body .main .NFT .NFT__container {
   padding-bottom: .25rem;
 }
 
-/*==========\Card User/==========*/
+/*=====\Card User/=====*/
 .card__user {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -158,9 +208,22 @@ body .main .NFT .NFT__container {
   max-width: 48px;
   border: 2px solid white;
   border-radius: 50%;
+  -webkit-transition: .5s;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.card__user .card__user-img:hover {
+  border: 2px solid #00fff7;
 }
 
 .card__user a {
   color: white;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.card__user a:hover {
+  color: #00fff7;
 }
 /*# sourceMappingURL=main.css.map */
