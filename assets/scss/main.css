@@ -131,6 +131,7 @@ body .main .NFT .NFT__container {
 }
 
 .card__data .card__titles .card__title {
+  font-size: 1.5rem;
   color: white;
   margin-bottom: 1.25rem;
   -webkit-transition: .5s;
