@@ -31,7 +31,9 @@ Users should be able to
 
 ### Screenshot
 
+**Desktop**
 ![Desktop](./assets/images/screenshot-desktop.png)
+**Mobile**
 ![Mobile](./assets/images/screenshot-mobile-375x812.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
@@ -44,21 +46,18 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://nft-card-component-npz4l9cut-henriquessan.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Semantic HTML5 markup.
+- CSS custom properties.
+- SCSS(SASS) custom properties.
+- CSS Methodology BEM.
+- Flexbox.
+- Mobile-first workflow.
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -96,8 +95,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Video de como usar o SASS](https://www.youtube.com/watch?v=C8KlabGtE8Y) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS Methodology BEM](https://www.youtube.com/watch?v=27JtRAI3QO8) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS BEM Article methodology](https://css-tricks.com/bem-101/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
