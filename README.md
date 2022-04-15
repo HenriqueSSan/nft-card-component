@@ -23,8 +23,6 @@ Os usuários devem ser capazes de
 ![Mobile](./assets/images/screenshot-mobile-375x812.png)
 **Mobile**
 
-Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito do mouse na página e selecionar "Fazer uma captura de tela". Você pode escolher uma captura de tela de altura total ou uma cortada com base no tamanho da página. Se for muito longo, talvez seja melhor cortá-lo.
-
 ### 🔗Links
 
 - **STATUS/ON** Ao vivo Site URL: [Veja o Projeto na Vercel](https://nft-card-component-npz4l9cut-henriquessan.vercel.app/)
