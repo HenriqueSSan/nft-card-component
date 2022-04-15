@@ -66,6 +66,6 @@ Pretendo Melhorar meu CSS e HTML e desenvolver projetos em JavaScript, CSS reduz
 - Frontend Mentor - [@HenriqueSSan](https://www.frontendmentor.io/profile/HenriqueSSan)
 - Vercel - [HenriqueSSan](https://vercel.com/henriquessan)
 
-## 🤝 🏻Agradecimentos
+## 🤝 Agradecimentos
 
 Agradeço aqueles que estão vendo esse projeto e meu desenvolvimento tenham um bom dia 
