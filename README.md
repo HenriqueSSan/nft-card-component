@@ -59,7 +59,7 @@ const proudOfThisFunc = () => {
 Use esta seção para delinear as áreas nas quais você deseja continuar focando em projetos futuros. Estes podem ser conceitos com os quais você ainda não está completamente confortável ou técnicas que você achou úteis que você deseja refinar e aperfeiçoar.
 
 
-### Useful resources
+### Recursos úteis
 
 - [Video de como usar o SASS BR](https://www.youtube.com/watch?v=C8KlabGtE8Y) - Aprendi com esse video como usar o basico do pré-processador Sass(Scss) em projetos
 - [CSS Methodology BEM](https://www.youtube.com/watch?v=27JtRAI3QO8) - Aprendi Uma melhor forma de criar classes com esta metodologia para tornar o codigo mais legível e limpo possível
