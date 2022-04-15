@@ -11,6 +11,9 @@ Os usuários devem ser capazes de
 - Veja o layout ideal dependendo do tamanho da tela do dispositivo
 - Veja os estados de foco para elementos interativos
 
+- Desafio proprio:
+  -Não pode usar Media Queries
+
 ### Captura de tela
 
 **Desktop**
@@ -23,7 +26,7 @@ Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer is
 
 ### Links
 
-- **STATUS/ON** Live Site URL: [See in real time on vercel](https://nft-card-component-npz4l9cut-henriquessan.vercel.app/)
+- **STATUS/ON** Ao vivo Site URL: [Veja o Projeto na Vercel](https://nft-card-component-npz4l9cut-henriquessan.vercel.app/)
 
 ## Meu Processo
 
@@ -38,26 +41,19 @@ Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer is
 
 ### O que eu aprendi
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+Como Construir um projeto de forma organizada e com boas praticas, As dificuldades que tive foi de propor para mim mesmo em criar ele responsivo sem a utilização de media queries, e assim fiz percebi que a minha estrutura do HTML5 não estava bom e foi procurar maneiras de estrutura-lo melhor, Crie o projeto em Sass(Ultilizando um recompilador que recompilava o meu código e "Traduzia" para Css) tive que procurar isso porque eu não queria ter que instalar um Framework ou o Npm para isso então fui procurar uma maneira e achei, A utilização do Sass não foi um problema porque eu já tinha entendido no videos e ajudou bastante e acelerou meu desenvolvimento.
 
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
+A Organização do Pojeto foi:
 
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+- Primeiro a estrutura HTML5 com boas práticas
+- Criação de classes de forma mais clara
+- Criação do layout em CSS
+- Adicionando responsividade
+- Animações em CSS
 
 ### Desenvolvimento contínuo
 
-Use esta seção para delinear as áreas nas quais você deseja continuar focando em projetos futuros. Estes podem ser conceitos com os quais você ainda não está completamente confortável ou técnicas que você achou úteis que você deseja refinar e aperfeiçoar.
-
+Pretendo Melhorar meu CSS e HTML e desenvolver projetos em JavaScript, CSS reduzir a utilização de classes desnecesarias e HTML desenvolver estruturas mais eficientes e melhores,
 
 ### Recursos úteis
 
