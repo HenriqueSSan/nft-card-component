@@ -12,7 +12,7 @@ Os usuários devem ser capazes de
 - Veja os estados de foco para elementos interativos
 
 - Desafio proprio:
-  -Não pode usar Media Queries
+  - Não pode usar Media Queries
 
 ### Captura de tela
 
