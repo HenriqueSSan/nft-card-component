@@ -1,17 +1,17 @@
-# Frontend Mentor - NFT preview card component solution
+# Frontend Mentor - Solução de componente de cartão de visualização NFT
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Esta é uma solução para o [desafio do componente de cartão de visualização NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
-## Overview
+## Visão geral
 
-### The challenge
+### O desafio
 
-Users should be able to
+Os usuários devem ser capazes de
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- Veja o layout ideal dependendo do tamanho da tela do dispositivo
+- Veja os estados de foco para elementos interativos
 
-### Screenshot
+### Captura de tela
 
 **Desktop**
 ![Desktop](./assets/images/screenshot-desktop.png)
@@ -19,15 +19,15 @@ Users should be able to
 ![Mobile](./assets/images/screenshot-mobile-375x812.png)
 **Mobile**
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito do mouse na página e selecionar "Fazer uma captura de tela". Você pode escolher uma captura de tela de altura total ou uma cortada com base no tamanho da página. Se for muito longo, talvez seja melhor cortá-lo.
 
 ### Links
 
 - **STATUS/ON** Live Site URL: [See in real time on vercel](https://nft-card-component-npz4l9cut-henriquessan.vercel.app/)
 
-## My process
+## Meu Processo
 
-### Built with
+### Construido Com
 
 - Semantic HTML5 markup.
 - CSS custom properties.
@@ -36,7 +36,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 - Flexbox.
 - Mobile-first workflow.
 
-### What I learned
+### O que eu aprendi
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -54,22 +54,23 @@ const proudOfThisFunc = () => {
 }
 ```
 
-### Continued development
+### Desenvolvimento contínuo
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Use esta seção para delinear as áreas nas quais você deseja continuar focando em projetos futuros. Estes podem ser conceitos com os quais você ainda não está completamente confortável ou técnicas que você achou úteis que você deseja refinar e aperfeiçoar.
+
 
 ### Useful resources
 
-- [Video de como usar o SASS BR](https://www.youtube.com/watch?v=C8KlabGtE8Y) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [CSS Methodology BEM](https://www.youtube.com/watch?v=27JtRAI3QO8) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-- [CSS BEM Article methodology](https://css-tricks.com/bem-101/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Video de como usar o SASS BR](https://www.youtube.com/watch?v=C8KlabGtE8Y) - Aprendi com esse video como usar o basico do pré-processador Sass(Scss) em projetos
+- [CSS Methodology BEM](https://www.youtube.com/watch?v=27JtRAI3QO8) - Aprendi Uma melhor forma de criar classes com esta metodologia para tornar o codigo mais legível e limpo possível
+- [CSS Artigo de Metodologia BEM](https://css-tricks.com/bem-101/) - Artigo sobre a metodologia BEM foi um complementar
 
-## Author
+## Autor
 
 - Linkedin - [Henrique Santos Santana](https://www.linkedin.com/in/henrique-santos-santana/)
 - Frontend Mentor - [@HenriqueSSan](https://www.frontendmentor.io/profile/HenriqueSSan)
 - Vercel - [HenriqueSSan](https://vercel.com/henriquessan)
 
-## Acknowledgments
+## Agradecimentos
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+É aqui que você pode dar uma dica de chapéu para quem o ajudou neste projeto. Talvez você tenha trabalhado em equipe ou tenha se inspirado na solução de outra pessoa. Este é o lugar perfeito para dar-lhes algum crédito.
