@@ -73,4 +73,4 @@ Use esta seção para delinear as áreas nas quais você deseja continuar focand
 
 ## Agradecimentos
 
-É aqui que você pode dar uma dica de chapéu para quem o ajudou neste projeto. Talvez você tenha trabalhado em equipe ou tenha se inspirado na solução de outra pessoa. Este é o lugar perfeito para dar-lhes algum crédito.
+Agradeço aqueles que estão vendo esse projeto e meu desenvolvimento tenham um bom dia 
